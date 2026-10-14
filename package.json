@@ -1,0 +1,21 @@
+{
+  "name": "cli-summative-lab",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hersiahmed2525-ship-it/CLI-Summative-Lab.git"
+  },
+  "keywords": [],
+  "author": "Hersi Ahmed",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/hersiahmed2525-ship-it/CLI-Summative-Lab/issues"
+  },
+  "homepage": "https://github.com/hersiahmed2525-ship-it/CLI-Summative-Lab#readme"
+}
